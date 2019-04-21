@@ -1,0 +1,6 @@
+{
+  "appId": "com.dhuebner.capacitorpractice",
+  "appName": "capacitor-practice",
+  "bundledWebRuntime": false,
+  "webDir": "dist/capacitor-practice"
+}
